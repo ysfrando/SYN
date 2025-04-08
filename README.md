@@ -1,2 +1,2 @@
 ## Secure Yielded Network (SYN)
-Distributed Anonymouse Network ... in progress
+Distributed Anonymous Network ... in progress
